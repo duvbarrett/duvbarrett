@@ -1,3 +1,5 @@
+![Header](./your-header-image-name.png)
+
 ## <div align="center">Hey 👋🏼,  I'm Duval Barrett </div>  
   
 
