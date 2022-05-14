@@ -96,7 +96,7 @@ I’m a full-stack developer student currently studying at Devmountain bootcamp 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center"><a href="https://profilinator.rishav.dev/" target="_blank"></a></div>
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dstylz&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=dstylz&redirect=true)
