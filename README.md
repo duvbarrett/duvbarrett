@@ -23,7 +23,7 @@ I’m a full-stack developer student currently studying at Devmountain bootcamp 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Capstone Project](https://github.com/duvalbarrett/capstone-project)  
   
 
 - 🌱 I’m currently learning React and Redux  
