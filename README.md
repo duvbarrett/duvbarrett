@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-## <div align="center">Hey 👋🏼,  I'm Duval Barrett </div>  
+<!-- ## <div align="center">Hey 👋🏼,  I'm Duval Barrett </div>   -->
   
 
 <div align="center">
