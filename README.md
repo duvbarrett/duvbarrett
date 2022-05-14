@@ -10,8 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v2.0.0-rc.2
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duvalbarrett&theme=solarized_dark)
