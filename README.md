@@ -10,48 +10,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-  ___   _      ___   _      ___   _      ___   _      ___   _
- [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
-  '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|
- /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /
-       |____________|____________|____________|____________|
-                             |            |            |
-                         ___  \_      ___  \_      ___  \_
-                        [(_)] |=|    [(_)] |=|    [(_)] |=|
-                         '-`  |_|     '-`  |_|     '-`  |_|
-                        /mmm/        /mmm/        /mmm/
-
-┌──┤ WHOAMI ├─────────▰▰▰
-│
-├─▣ Fullstack Web Developer
-├─▣ Content Creator
-├─▣ thewhiteh4t's Blog
-├─▣ I am mostly available at The White Circle
-│
-└───────────────────────────────▰▰▰
-
-┌──┤ SOCIAL ├─────────▰▰▰
-│
-├─◈ Twitter
-├─◈ YouTube
-├─◈ Telegram
-├─◈ LinkedIn
-│
-└───────────────────────────────▰▰▰
-
-┌──┤ PROJECTS ├───────▰▰▰
-│
-├─◈ Seeker
-├─◈ FinalRecon
-├─◈ NExfil
-├─◈ pwnedOrNot
-├─◈ KillCast
-├─◈ FlashSploit
-│
-└───────────────────────────────▰▰▰
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duvalbarrett&theme=solarized_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=duvalbarrett&theme=solarized_dark)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=duvalbarrett&theme=solarized_dark)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dstylz&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=dstylz&redirect=true)
