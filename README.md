@@ -52,8 +52,12 @@ I’m a full-stack developer student currently studying at Devmountain bootcamp 
 
 
 ## Languages and Tools  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,express,bootstrap,figma,git,github,heroku,nodejs,postgres,react,redux,stackoverflow,vscode,linkedin, discord,instagram,twitter,ps)](https://skillicons.dev" />
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,bootstrap,figma,github,heroku,nodejs,postgres,react,redux,stackoverflow,vscode,)](https://skillicons.dev)
 
 
 
