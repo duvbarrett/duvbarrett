@@ -1,4 +1,6 @@
-![Header](./github-header-image.png)
+<!-- ![Header](./github-header-image.png) -->
+![DUVAL_BARRETT](https://user-images.githubusercontent.com/97458251/170835676-71871b6a-4a23-4d11-bd81-f89b2d3c5788.png)
+
 
 <!-- ## <div align="center">Hey 👋🏼,  I'm Duval Barrett </div>   -->
   
