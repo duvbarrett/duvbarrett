@@ -52,7 +52,13 @@ I’m a full-stack developer student currently studying at Devmountain bootcamp 
 
 
 ## Languages and Tools  
-<div align="center">  
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,bootstrap,figma,github,heroku,nodejs,postgres,react,redux,stackoverflow,vscode,)](https://skillicons.dev)
+
+
+
+
+<!-- <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
@@ -70,7 +76,7 @@ I’m a full-stack developer student currently studying at Devmountain bootcamp 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="25" />  
 </div>  
-
+ -->
 <br/>  
 
 
