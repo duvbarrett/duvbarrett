@@ -1,5 +1,7 @@
 ![Header](https://user-images.githubusercontent.com/97458251/170835814-ee1ef672-c0fa-4438-b0fa-cc44455079fb.png)
 
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966](https://user-images.githubusercontent.com/97458251/170836751-6bd1cb0a-c548-4522-9de7-d41bc7947b3c.gif)
+![daftpunktocat-thomas-2](https://user-images.githubusercontent.com/97458251/170836754-46becf77-4abc-4574-ba40-8e77345ddb04.gif)
 
 
 <!-- ## <div align="center">Hey 👋🏼,  I'm Duval Barrett </div>   -->
