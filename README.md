@@ -23,7 +23,7 @@
 
 
 ### Welcome 👾  
-I’m a full-stack developer student currently studying at Devmountain bootcamp for the past 2 months now. who has turned years of freelancing into a full-time career. I chose to do full stack web dev because being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.  
+I’m a full-stack developer student who has recently graduated from Devmountain bootcamp. I am looking to continue to build on my skills and to turn freelancing into a full-time career and I am always open to work. I chose to do full stack web dev because being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.  
   
 
 <br/>  
@@ -32,10 +32,10 @@ I’m a full-stack developer student currently studying at Devmountain bootcamp 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Capstone Project](https://github.com/duvalbarrett/specs-capstone)  
+- 🔭 I’m currently working on [Banking App](https://github.com/duvalbarrett/modern-banking-app)  
   
 
-- 🌱 I’m currently learning React and Redux  
+- 🌱 I’m currently practicing improvement on front end development with react   
   
 
 - ❓ Ask me about anything related to web development and technology  
