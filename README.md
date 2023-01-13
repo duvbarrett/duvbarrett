@@ -5,7 +5,7 @@
   <img src="https://user-images.githubusercontent.com/97458251/170836751-6bd1cb0a-c548-4522-9de7-d41bc7947b3c.gif"
        </div>
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Duval+Barrett+of+text;Fullstack+Web+Developer+)](https://git.io/typing-svg)
 
 <!-- ## <div align="center">Hey 👋🏼,  I'm Duval Barrett </div>   -->
   
