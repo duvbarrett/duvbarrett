@@ -1,11 +1,7 @@
 ![Header](https://user-images.githubusercontent.com/97458251/170835814-ee1ef672-c0fa-4438-b0fa-cc44455079fb.png)
 
-  
-<!-- <div align="center">
-  <img src="https://user-images.githubusercontent.com/97458251/170836751-6bd1cb0a-c548-4522-9de7-d41bc7947b3c.gif"
-       </div> -->
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=9803F7&center=true&vCenter=true&width=435&lines=Duval+Barrett+%F0%9F%91%8B%F0%9F%8F%BC;Fullstack+Web+Developer+%F0%9F%91%BE;Living+Life+One+Code+At+A+Time+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00A518&center=true&vCenter=true&width=435&lines=Fullstack+Web+Developer+%F0%9F%91%BE;Living+life+one+code+at+a+time+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 
 
