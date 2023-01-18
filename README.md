@@ -89,4 +89,4 @@ I’m a full-stack developer student who has recently graduated from Devmountain
 <div align="center"><a href="https://profilinator.rishav.dev/" target="_blank"></a></div>
 
 ## Recently Played
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dstylz&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=dstylz&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dstylz&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=dstylz&redirect=true) 
