@@ -27,7 +27,7 @@ I’m a full-stack developer specializing in React, Javascript, NodeJs and Postg
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Banking App](https://github.com/duvalbarrett/modern-banking-app)  
+- 🔭 I’m currently working on [Nike Store](https://github.com/duvalbarrett/nike-store)  
   
 
 - 🌱 I’m currently practicing improvement on front end development with react   
