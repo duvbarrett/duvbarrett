@@ -27,10 +27,10 @@ I’m a full-stack developer specializing in React, Javascript, NodeJs and Postg
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Nike Store](https://github.com/duvalbarrett/nike-store)  
+- 🔭 I’m currently working on [Youtube Clone](https://github.com/duvbarrett/youtube-clone)  
   
 
-- 🌱 I’m currently practicing improvement on front end development with react   
+- 🌱 I’m currently practicing improvement on front end development with react and SQL development  
   
 
 - ❓ Ask me about anything related to web development and technology  
