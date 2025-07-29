@@ -24,7 +24,7 @@ I’m a full-stack developer specializing in React, Javascript, NodeJs and Postg
 <!-- ![Profile views counter](https://komarev.com/ghpvc/?username=duvalbarrett&&style=flat-square)   -->
 
 
-## Rapidfire  
+<!--  ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Patient Health System](https://github.com/duvbarrett/patient-system)  
